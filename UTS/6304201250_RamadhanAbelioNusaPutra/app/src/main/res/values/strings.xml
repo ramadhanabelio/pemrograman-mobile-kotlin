@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">6304201250_Ramadhan Abelio Nusa Putra</string>
+    <string name="judul">Hitung Volume dan Luas Kubus</string>
+    <string name="sisi">Sisi (cm)</string>
+    <string name="hint_sisi">Masukkan sisi...</string>
+    <string name="luas">Luas</string>
+    <string name="volume">Volume</string>
+    <string name="reset">Reset</string>
+    <string name="hasil">Hasil</string>
+</resources>

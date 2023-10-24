@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">6304201250_Ramadhan Abelio Nusa Putra</string>
+    <string name="nama">Ramadhan Abelio Nusa Putra</string>
+    <string name="email">ramadhanabelionusaputra@gmail.com</string>
+    <string name="header_convert">Konversi Mata Uang</string>
+    <string name="hint_convert">Mata Uang (Rupiah)</string>
+    <string name="convert">Convert</string>
+    <string name="conversion">Conversion</string>
+    <string name="dollar">Dollar :</string>
+    <string name="ringgit">Ringgit :</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="calculate_dollar">Calculate Dollar</string>
+    <string name="about">About</string>
+    <string name="calculator">Calculator</string>
+    <string name="pemrograman_mobile">Pemrograman Mobile</string>
+    <string name="uas">UAS</string>
+</resources>

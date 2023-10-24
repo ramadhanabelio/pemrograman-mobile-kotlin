@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuDashboard" android:title="@string/dashboard" />
+    <item android:id="@+id/menuCalculateDollar" android:title="@string/calculate_dollar" />
+    <item android:id="@+id/menuAbout" android:title="@string/about" />
+    <item android:id="@+id/menuCalculator" android:title="@string/calculator" />
+</menu>
