@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PersegiPanjangApp</string>
+    <string name="judul">Hitung Luas Persegi Panjang</string>
+    <string name="panjang">Panjang (cm)</string>
+    <string name="hint_panjang">Masukkan panjang...</string>
+    <string name="lebar">Lebar (cm)</string>
+    <string name="hint_lebar">Masukkan lebar...</string>
+    <string name="luas">Luas</string>
+    <string name="keliling">Keliling</string>
+    <string name="reset">Reset</string>
+    <string name="hasil">Hasil</string>
+</resources>

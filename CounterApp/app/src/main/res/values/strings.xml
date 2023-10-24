@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CounterApp</string>
+    <string name="nilaiAngka">0</string>
+    <string name="tambahAngka">Tambah Angka</string>
+    <string name="kurangAngka">Kurang Angka</string>
+    <string name="resetAngka">Reset Angka</string>
+</resources>

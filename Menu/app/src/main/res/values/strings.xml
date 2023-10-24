@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="menuExit">Exit</string>
+    <string name="menuHelp">Help</string>
+    <string name="menuEdit">Edit</string>
+    <string name="menuFile">File</string>
+    <string name="nama">Ramadhan Abelio Nusa Putra</string>
+</resources>
